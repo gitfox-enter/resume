@@ -263,6 +263,17 @@
     ],
     "projects": [
       {
+        "name": "Personal Automation Toolkit · Open-source Suite (4 public repos)",
+        "description": "Personal Projects",
+        "startDate": "2026-06",
+        "endDate": "2026-10",
+        "highlights": [
+          "Independently designed and open-sourced 4 automation tools: RSS generator (GitHub Actions-hosted), self-updating GitHub mirror database, Windows dual-instance launcher, and a university-website-to-knowledge-base auto-import bot",
+          "Developed end-to-end in collaboration with AI agents — breaking vague requirements into executable steps and shipping running software",
+          "Standardized-service thinking from hotel operations applied to software workflows: process decomposition, standard execution, feedback loops"
+        ]
+      },
+      {
         "name": "Tongxi Oriental Hotel · F&B Training",
         "startDate": "2026-05-01",
         "description": "Mastered the full standardized F&B service workflow of a star-rated hotel, including pre-meal preparation, guest reception, table setting, in-meal service, and post-meal cleanup. Strictly adhered to service etiquette with strong attention to detail and customer service awareness.",
