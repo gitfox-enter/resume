@@ -2,14 +2,14 @@
   "zh": {
     "basics": {
       "name": "金军",
-      "label": "酒店管培生",
+      "label": "生产管培/运营储备 · 2027 届",
       "image": "",
       "email": "mrjin2004@163.com",
-      "phone": "",
+      "phone": "19556434118",
       "url": "https://gitfox-enter.github.io/",
-      "summary": "亳州学院酒店管理专业专升本在读。系统学习服务管理、运营流程、商务礼仪等专业知识，理论基础扎实，实训成绩名列前茅。拥有正规公司市场推广实习经历与星级酒店标准化实训经验，具备规范的服务素养、良好的职业形象与高效的执行能力。",
+      "summary": "亳州学院酒店管理专业专升本在读（2027 届）。拥有市场推广实习经历与校园志愿服务经验，具备现场执行、客户沟通与团队协作能力。持有 C2 驾驶证，普通话二级乙等。意向在生产管培/运营储备方向长期发展。",
       "location": {
-        "city": "合肥",
+        "city": "马鞍山",
         "countryCode": "CN"
       },
       "profiles": [
@@ -20,33 +20,6 @@
         }
       ]
     },
-    "work": [
-      {
-        "name": "安徽小库教育科技有限公司",
-        "position": "市场专员",
-        "startDate": "2024-09",
-        "endDate": "2025-03",
-        "summary": "负责线下市场推广、用户引流及活动执行工作。",
-        "highlights": [
-          "负责线下市场地推、用户引流、场景宣传等基础推广工作，熟悉线下获客流程，具备基础市场洞察与推广执行能力",
-          "协助团队完成营销活动策划落地、物料布置、现场执行、人员对接、流程跟进等工作，保障各类市场活动顺利落地",
-          "主动对接客户咨询、耐心解答问题，积累了扎实的沟通表达、临场应变、统筹协调能力，抗压能力与落地执行力突出"
-        ]
-      }
-    ],
-    "volunteer": [
-      {
-        "organization": "亳州学院",
-        "position": "志愿者",
-        "startDate": "2026-07",
-        "endDate": "",
-        "summary": "负责新生报到引导、路线指引、物资分发、问题答疑等志愿服务工作。",
-        "highlights": [
-          "耐心对接师生，积极配合团队完成统筹工作",
-          "有效锻炼了沟通协调、服务对接与团队协作能力，责任心强、执行力高"
-        ]
-      }
-    ],
     "education": [
       {
         "institution": "亳州学院",
@@ -56,8 +29,45 @@
         "endDate": "2027-07",
         "score": "",
         "courses": [
-          "酒店服务礼仪（95分）",
-          "酒店餐饮管理（93分）"
+          "酒店服务礼仪（95 分）",
+          "酒店餐饮管理（93 分）",
+          "前厅运营与管理（93 分）"
+        ]
+      },
+      {
+        "institution": "安徽审计职业学院",
+        "studyType": "专科",
+        "area": "现代物流管理",
+        "startDate": "2022-09",
+        "endDate": "2025-07",
+        "score": "",
+        "courses": []
+      }
+    ],
+    "work": [
+      {
+        "name": "安徽小库教育科技有限公司",
+        "position": "市场专员",
+        "startDate": "2024-09",
+        "endDate": "2025-03",
+        "summary": "负责线下市场推广、用户引流及活动执行工作。",
+        "highlights": [
+          "负责线下市场地推、用户引流、场景宣传，累计售出校园卡 13 张，中考考点发放传单 500+ 份",
+          "协助团队完成营销活动策划落地、物料布置、现场执行、人员对接、流程跟进，保障活动顺利落地",
+          "主动对接客户咨询、耐心解答问题，锻炼沟通表达、临场应变与统筹协调能力"
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "亳州学院",
+        "position": "志愿者",
+        "startDate": "2026-07",
+        "endDate": "2026-07",
+        "summary": "负责新生报到引导、路线指引、物资分发、问题答疑等志愿服务工作。",
+        "highlights": [
+          "现场引导新生 100+ 人次，物资分发 200+ 份，问题答疑 50+ 次",
+          "有效锻炼现场协调、服务对接与团队协作能力"
         ]
       }
     ],
@@ -66,115 +76,93 @@
         "name": "个人自动化工具链 · 开源项目群（4 个开源仓库）",
         "description": "个人项目",
         "startDate": "2026-06",
-        "endDate": "2026-10",
+        "endDate": "",
         "highlights": [
           "独立设计并开源 4 个自动化工具：RSS 生成器（GitHub Actions 免费托管）、GitHub 加速镜像库（自测速自更新）、Windows 双开工具、高校官网→知识库自动导入机器人",
-          "全程远程使用 AI Agent 协作开发，具备把模糊需求拆成可执行步骤、驱动 AI 完成并上线运行的能力，关注者与使用中",
-          "酒店服务流程的标准化思维 × 自动化落地能力——把「流程拆解、按标准执行、检查反馈」从客房服务复用到软件工作流"
+          "全程远程使用 AI Agent 协作开发，具备把模糊需求拆成可执行步骤、驱动 AI 完成并上线运行的能力",
+          "酒店服务流程的标准化思维 × 自动化落地能力——把「流程拆解、按标准执行、检查反馈」复用到软件工作流"
         ]
       },
       {
-        "name": "亳州桐禧东方酒店 · 餐饮岗位实训",
-        "description": "实训",
+        "name": "酒店送物机器人顾客体验研究",
+        "description": "毕业论文选题（导师：张静）",
+        "startDate": "2026-09",
+        "endDate": "",
+        "highlights": [
+          "以北京、上海 17 家连锁酒店在线评论为数据源，开展顾客体验数据分析与课题研究",
+          "运用文本分析、情感分析方法，探索酒店送物机器人服务场景下的顾客满意度与改进方向"
+        ]
+      },
+      {
+        "name": "专业认知实习 · 星级酒店参观见习",
+        "description": "课程实践",
         "startDate": "2026-05",
-        "endDate": "",
+        "endDate": "2026-05",
         "highlights": [
-          "熟练掌握星级酒店餐饮全套标准化服务流程，涵盖餐前筹备、宾客接待、餐桌布置、席间服务、餐后整理等工作",
-          "严格遵守服务礼仪规范，细节把控到位，实训成绩95分，具备良好的客户服务意识与现场应变能力"
-        ]
-      },
-      {
-        "name": "亳州富力万达嘉华酒店 · 前厅客房岗位实训",
-        "description": "实训",
-        "startDate": "2025-12",
-        "endDate": "",
-        "highlights": [
-          "熟悉高端星级酒店前厅接待、入住退房办理、客房巡检、客房标准化整理等业务流程",
-          "熟悉服务行业标准化管理模式，实训成绩93分，做事严谨细致，具备规范化、流程化的工作思维"
+          "参观星级酒店前厅、客房、餐饮部门，观摩工作人员演示基础服务流程",
+          "了解酒店标准化运营模式、SOP 执行与质量把控要点"
         ]
       }
     ],
     "awards": [
       {
-        "title": "普通话二级乙等",
-        "date": "",
-        "awarder": "",
-        "summary": "语言表达清晰流畅，适合服务、行政、文职、运营类沟通型岗位"
+        "title": "三好学生",
+        "date": "2023-06",
+        "awarder": "安徽审计职业学院",
+        "summary": ""
       },
       {
-        "title": "C2机动车驾驶证",
-        "date": "",
-        "awarder": "",
-        "summary": "具备独立驾驶能力"
+        "title": "校级二等奖学金",
+        "date": "2023-06",
+        "awarder": "安徽审计职业学院",
+        "summary": "2022-2023 学年"
       }
     ],
     "skills": [
       {
-        "name": "专业技能",
-        "keywords": [
-          "服务管理",
-          "运营流程",
-          "商务礼仪",
-          "前厅客房运营",
-          "餐饮标准化服务"
-        ]
-      },
-      {
-        "name": "工具与办公",
+        "name": "办公工具",
         "keywords": [
           "Word",
           "Excel",
-          "PPT",
-          "GitHub",
-          "Docker"
+          "PPT"
         ]
       },
       {
         "name": "软技能",
         "keywords": [
-          "沟通协调",
-          "团队协作",
           "执行力",
           "责任心",
+          "时间管理",
+          "团队协作",
           "快速学习"
         ]
       }
     ],
-    "languages": [
+    "certificates": [
       {
-        "language": "中文",
-        "fluency": "母语"
+        "name": "普通话二级乙等",
+        "date": "",
+        "issuer": ""
       },
       {
-        "language": "英语",
-        "fluency": "能阅读技术文档"
-      }
-    ],
-    "interests": [
-      {
-        "name": "技术折腾与自托管",
-        "keywords": [
-          "NAS",
-          "Docker",
-          "GitHub",
-          "AI 工具"
-        ]
+        "name": "C2 机动车驾驶证",
+        "date": "",
+        "issuer": ""
       }
     ]
   },
   "en": {
     "basics": {
-      "name": "Jin Jun",
-      "label": "Hospitality Management · Undergraduate",
+      "name": "Jun Jin",
+      "label": "Production Management Trainee / Operations Reserve · Class of 2027",
       "image": "",
       "email": "mrjin2004@163.com",
-      "phone": "",
+      "phone": "+86 19556434118",
       "url": "https://gitfox-enter.github.io/",
-      "summary": "Hospitality Management student at Bozhou University (top-up degree). Systematically studied service management, operational processes, and business etiquette with solid theoretical foundations and top practical training scores. Possesses formal corporate marketing internship experience and standardized hotel training, demonstrating professional service skills and efficient execution.",
+      "summary": "Junior student in Hotel Management at Bozhou University (expected graduation 2027). Have internship experience in market promotion and campus volunteer service, with skills in on-site execution, customer communication, and teamwork. Hold C2 driver's license and Putonghua Level 2 Grade B certificate. Seeking long-term development in production management trainee / operations reserve roles.",
       "location": {
-        "city": "Hefei",
-        "countryCode": "CN",
-        "region": "Anhui"
+        "city": "Ma'anshan",
+        "countryCode": "CN"
       },
       "profiles": [
         {
@@ -184,172 +172,135 @@
         }
       ]
     },
+    "education": [
+      {
+        "institution": "Bozhou University",
+        "studyType": "Junior College to University",
+        "area": "Hotel Management",
+        "startDate": "2025-09",
+        "endDate": "2027-07",
+        "score": "",
+        "courses": [
+          "Hotel Service Etiquette (95/100)",
+          "Hotel Catering Management (93/100)",
+          "Front Office Operations & Management (93/100)"
+        ]
+      },
+      {
+        "institution": "Anhui Audit Vocational College",
+        "studyType": "Associate Degree",
+        "area": "Modern Logistics Management",
+        "startDate": "2022-09",
+        "endDate": "2025-07",
+        "score": "",
+        "courses": []
+      }
+    ],
     "work": [
       {
         "name": "Anhui Xiaoku Education Technology Co., Ltd.",
         "position": "Marketing Specialist",
-        "url": "",
-        "startDate": "2024-09-01",
-        "endDate": "2025-03-01",
-        "summary": "Responsible for offline marketing, user acquisition, and event execution.",
+        "startDate": "2024-09",
+        "endDate": "2025-03",
+        "summary": "Responsible for offline market promotion, user acquisition, and event execution.",
         "highlights": [
-          "Conducted offline ground promotion, user acquisition, and on-site marketing activities, mastering offline customer acquisition processes",
-          "Assisted team in planning and executing marketing campaigns, including material preparation, on-site coordination, and process follow-up",
-          "Proactively handled customer inquiries with strong communication, adaptability, and coordination skills under pressure"
+          "Conducted offline market promotion, user acquisition, and scenario-based publicity; sold 13 campus cards and distributed 500+ flyers at high school entrance exam sites",
+          "Assisted team in marketing event planning, material arrangement, on-site execution, personnel coordination, and process follow-up to ensure smooth event delivery",
+          "Proactively handled customer inquiries, patiently answered questions, and developed communication, adaptability, and coordination skills"
         ]
       }
     ],
     "volunteer": [
       {
-        "organization": "Campus Orientation Volunteer Service",
+        "organization": "Bozhou University",
         "position": "Volunteer",
-        "startDate": "2026-07-01",
-        "summary": "Guided new students, provided directions, distributed materials, and answered questions.",
+        "startDate": "2026-07",
+        "endDate": "2026-07",
+        "summary": "Responsible for new student registration guidance, route direction, material distribution, and Q&A service.",
         "highlights": [
-          "Patiently assisted faculty and students, actively collaborated with team",
-          "Developed communication, coordination, and teamwork skills with strong sense of responsibility"
-        ]
-      }
-    ],
-    "education": [
-      {
-        "institution": "Bozhou University",
-        "url": "",
-        "area": "Hospitality Management",
-        "studyType": "Top-up Undergraduate (in progress)",
-        "startDate": "2025-09-01",
-        "endDate": "2027-07-01",
-        "score": "",
-        "courses": [
-          "Hotel Service Etiquette (95/100)",
-          "Hotel F&B Management (93/100)"
-        ]
-      }
-    ],
-    "skills": [
-      {
-        "name": "Professional Skills",
-        "level": "",
-        "keywords": [
-          "Service Management",
-          "Operational Processes",
-          "Business Etiquette",
-          "Front Office & Housekeeping",
-          "F&B Standardized Service"
-        ]
-      },
-      {
-        "name": "Tools & Office",
-        "level": "",
-        "keywords": [
-          "Word",
-          "Excel",
-          "PowerPoint",
-          "GitHub",
-          "Docker"
-        ]
-      },
-      {
-        "name": "Soft Skills",
-        "level": "",
-        "keywords": [
-          "Communication",
-          "Teamwork",
-          "Execution",
-          "Responsibility",
-          "Fast Learner"
+          "Guided 100+ new students, distributed 200+ materials, answered 50+ inquiries",
+          "Effectively developed on-site coordination, service docking, and teamwork skills"
         ]
       }
     ],
     "projects": [
       {
-        "name": "Personal Automation Toolkit · Open-source Suite (4 public repos)",
-        "description": "Personal Projects",
+        "name": "Personal Automation Toolchain · Open Source Projects (4 Repositories)",
+        "description": "Personal Project",
         "startDate": "2026-06",
-        "endDate": "2026-10",
+        "endDate": "",
         "highlights": [
-          "Independently designed and open-sourced 4 automation tools: RSS generator (GitHub Actions-hosted), self-updating GitHub mirror database, Windows dual-instance launcher, and a university-website-to-knowledge-base auto-import bot",
-          "Developed end-to-end in collaboration with AI agents — breaking vague requirements into executable steps and shipping running software",
-          "Standardized-service thinking from hotel operations applied to software workflows: process decomposition, standard execution, feedback loops"
+          "Independently designed and open-sourced 4 automation tools: RSS Generator (GitHub Actions free hosting), GitHub Accelerator Mirror (self-tested and auto-updated), Windows Dual-Open Tool, University Official Website → Knowledge Base Auto-Import Bot",
+          "Collaborated remotely with AI Agent for development, capable of breaking down vague requirements into executable steps, driving AI to complete and deploy",
+          "Hotel service process standardization thinking × automation implementation ability — applied 'process breakdown, standard execution, check-feedback' from housekeeping to software workflows"
         ]
       },
       {
-        "name": "Tongxi Oriental Hotel · F&B Training",
-        "startDate": "2026-05-01",
-        "description": "Mastered the full standardized F&B service workflow of a star-rated hotel, including pre-meal preparation, guest reception, table setting, in-meal service, and post-meal cleanup. Strictly adhered to service etiquette with strong attention to detail and customer service awareness.",
-        "url": "",
-        "type": "Practical Training",
-        "score": "95/100"
+        "name": "Hotel Delivery Robot Customer Experience Research",
+        "description": "Graduation Thesis Topic (Advisor: Jing Zhang)",
+        "startDate": "2026-09",
+        "endDate": "",
+        "highlights": [
+          "Based on online reviews from 17 chain hotels in Beijing and Shanghai, conducted customer experience data analysis and research",
+          "Applied text analysis and sentiment analysis methods to explore customer satisfaction and improvement directions in hotel delivery robot service scenarios"
+        ]
       },
       {
-        "name": "Wanda Realm Bozhou · Front Office & Housekeeping Training",
-        "startDate": "2025-12-01",
-        "description": "Familiar with front office reception, check-in/check-out procedures, room inspection, and standardized housekeeping workflows of a premium hotel. Understood standardized service management with a meticulous, process-oriented work approach.",
-        "url": "",
-        "type": "Practical Training",
-        "score": "93/100"
+        "name": "Professional Cognitive Internship · Star-rated Hotel Observation",
+        "description": "Course Practice",
+        "startDate": "2026-05",
+        "endDate": "2026-05",
+        "highlights": [
+          "Visited front office, housekeeping, and catering departments of star-rated hotels, observed staff demonstrating basic service processes",
+          "Understood hotel standardized operation model, SOP execution, and quality control points"
+        ]
       }
     ],
     "awards": [
       {
-        "title": "Mandarin Proficiency Level 2-B",
-        "date": "",
-        "awarder": "",
-        "summary": "Clear and fluent verbal communication, suitable for service, administrative, and communication-oriented roles"
+        "title": "Merit Student",
+        "date": "2023-06",
+        "awarder": "Anhui Audit Vocational College",
+        "summary": ""
       },
       {
-        "title": "C2 Driver's License",
-        "date": "",
-        "awarder": "",
-        "summary": "Qualified for independent driving"
+        "title": "University Second-Class Scholarship",
+        "date": "2023-06",
+        "awarder": "Anhui Audit Vocational College",
+        "summary": "Academic Year 2022-2023"
       }
     ],
-    "languages": [
+    "skills": [
       {
-        "language": "Chinese",
-        "fluency": "Native"
-      },
-      {
-        "language": "English",
-        "fluency": "Can read technical documentation"
-      }
-    ],
-    "interests": [
-      {
-        "name": "Tech Tinkering & Self-hosting",
+        "name": "Office Tools",
         "keywords": [
-          "NAS",
-          "Docker",
-          "GitHub",
-          "AI Tools"
+          "Word",
+          "Excel",
+          "PPT"
         ]
+      },
+      {
+        "name": "Soft Skills",
+        "keywords": [
+          "Execution",
+          "Responsibility",
+          "Time Management",
+          "Teamwork",
+          "Fast Learning"
+        ]
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Putonghua Level 2 Grade B",
+        "date": "",
+        "issuer": ""
+      },
+      {
+        "name": "C2 Driver's License",
+        "date": "",
+        "issuer": ""
       }
     ]
-  },
-  "meta": {
-    "themeOptions": {
-      "colors": {
-        "background": [
-          "#ffffff",
-          "#191e23"
-        ],
-        "dimmed": [
-          "#f3f4f5",
-          "#23282d"
-        ],
-        "primary": [
-          "#191e23",
-          "#fbfbfc"
-        ],
-        "secondary": [
-          "#6c7781",
-          "#ccd0d4"
-        ],
-        "accent": [
-          "#0073aa",
-          "#00a0d2"
-        ]
-      }
-    }
   }
 }
