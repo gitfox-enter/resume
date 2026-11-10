@@ -12,13 +12,7 @@
         "city": "安徽（亳州优先）",
         "countryCode": "CN"
       },
-      "profiles": [
-        {
-          "network": "GitHub",
-          "username": "gitfox-enter",
-          "url": "https://github.com/gitfox-enter"
-        }
-      ]
+      "profiles": []
     },
     "education": [
       {
@@ -56,66 +50,6 @@
           "协助团队完成营销活动策划落地、物料布置、现场执行、人员对接、流程跟进，保障活动顺利落地",
           "主动对接客户咨询、耐心解答问题，锻炼沟通表达、临场应变与统筹协调能力"
         ]
-      }
-    ],
-    "volunteer": [
-      {
-        "organization": "亳州学院",
-        "position": "志愿者",
-        "startDate": "2026-07",
-        "endDate": "2026-07",
-        "summary": "负责新生报到引导、路线指引、物资分发、问题答疑等志愿服务工作。",
-        "highlights": [
-          "现场引导新生 100+ 人次，物资分发 200+ 份，问题答疑 50+ 次",
-          "有效锻炼现场协调、服务对接与团队协作能力"
-        ]
-      }
-    ],
-    "projects": [
-      {
-        "name": "个人自动化工具链 · 开源项目群（4 个开源仓库）",
-        "description": "个人项目",
-        "startDate": "2026-06",
-        "endDate": "",
-        "highlights": [
-          "独立设计并开源 4 个自动化工具：RSS 生成器（GitHub Actions 免费托管）、GitHub 加速镜像库（自测速自更新）、Windows 双开工具、高校官网→知识库自动导入机器人",
-          "全程远程使用 AI Agent 协作开发，具备把模糊需求拆成可执行步骤、驱动 AI 完成并上线运行的能力",
-          "酒店服务流程的标准化思维 × 自动化落地能力——把「流程拆解、按标准执行、检查反馈」复用到软件工作流"
-        ]
-      },
-      {
-        "name": "酒店送物机器人顾客体验研究",
-        "description": "毕业论文选题（导师：张静）",
-        "startDate": "2026-09",
-        "endDate": "",
-        "highlights": [
-          "以北京、上海 17 家连锁酒店在线评论为数据源，开展顾客体验数据分析与课题研究",
-          "运用文本分析、情感分析方法，探索酒店送物机器人服务场景下的顾客满意度与改进方向"
-        ]
-      },
-      {
-        "name": "专业认知实习 · 星级酒店参观见习",
-        "description": "课程实践",
-        "startDate": "2026-05",
-        "endDate": "2026-05",
-        "highlights": [
-          "参观星级酒店前厅、客房、餐饮部门，观摩工作人员演示基础服务流程",
-          "了解酒店标准化运营模式、SOP 执行与质量把控要点"
-        ]
-      }
-    ],
-    "awards": [
-      {
-        "title": "三好学生",
-        "date": "2023-06",
-        "awarder": "安徽审计职业学院",
-        "summary": ""
-      },
-      {
-        "title": "校级二等奖学金",
-        "date": "2023-06",
-        "awarder": "安徽审计职业学院",
-        "summary": "2022-2023 学年"
       }
     ],
     "skills": [
@@ -164,13 +98,7 @@
         "city": "Anhui (Bozhou preferred)",
         "countryCode": "CN"
       },
-      "profiles": [
-        {
-          "network": "GitHub",
-          "username": "gitfox-enter",
-          "url": "https://github.com/gitfox-enter"
-        }
-      ]
+      "profiles": []
     },
     "education": [
       {
@@ -208,66 +136,6 @@
           "Assisted team in marketing event planning, material arrangement, on-site execution, personnel coordination, and process follow-up to ensure smooth event delivery",
           "Proactively handled customer inquiries, patiently answered questions, and developed communication, adaptability, and coordination skills"
         ]
-      }
-    ],
-    "volunteer": [
-      {
-        "organization": "Bozhou University",
-        "position": "Volunteer",
-        "startDate": "2026-07",
-        "endDate": "2026-07",
-        "summary": "Responsible for new student registration guidance, route direction, material distribution, and Q&A service.",
-        "highlights": [
-          "Guided 100+ new students, distributed 200+ materials, answered 50+ inquiries",
-          "Effectively developed on-site coordination, service docking, and teamwork skills"
-        ]
-      }
-    ],
-    "projects": [
-      {
-        "name": "Personal Automation Toolchain · Open Source Projects (4 Repositories)",
-        "description": "Personal Project",
-        "startDate": "2026-06",
-        "endDate": "",
-        "highlights": [
-          "Independently designed and open-sourced 4 automation tools: RSS Generator (GitHub Actions free hosting), GitHub Accelerator Mirror (self-tested and auto-updated), Windows Dual-Open Tool, University Official Website → Knowledge Base Auto-Import Bot",
-          "Collaborated remotely with AI Agent for development, capable of breaking down vague requirements into executable steps, driving AI to complete and deploy",
-          "Hotel service process standardization thinking × automation implementation ability — applied 'process breakdown, standard execution, check-feedback' from housekeeping to software workflows"
-        ]
-      },
-      {
-        "name": "Hotel Delivery Robot Customer Experience Research",
-        "description": "Graduation Thesis Topic (Advisor: Jing Zhang)",
-        "startDate": "2026-09",
-        "endDate": "",
-        "highlights": [
-          "Based on online reviews from 17 chain hotels in Beijing and Shanghai, conducted customer experience data analysis and research",
-          "Applied text analysis and sentiment analysis methods to explore customer satisfaction and improvement directions in hotel delivery robot service scenarios"
-        ]
-      },
-      {
-        "name": "Professional Cognitive Internship · Star-rated Hotel Observation",
-        "description": "Course Practice",
-        "startDate": "2026-05",
-        "endDate": "2026-05",
-        "highlights": [
-          "Visited front office, housekeeping, and catering departments of star-rated hotels, observed staff demonstrating basic service processes",
-          "Understood hotel standardized operation model, SOP execution, and quality control points"
-        ]
-      }
-    ],
-    "awards": [
-      {
-        "title": "Merit Student",
-        "date": "2023-06",
-        "awarder": "Anhui Audit Vocational College",
-        "summary": ""
-      },
-      {
-        "title": "University Second-Class Scholarship",
-        "date": "2023-06",
-        "awarder": "Anhui Audit Vocational College",
-        "summary": "Academic Year 2022-2023"
       }
     ],
     "skills": [
