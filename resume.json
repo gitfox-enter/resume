@@ -2,172 +2,236 @@
   "zh": {
     "basics": {
       "name": "金军",
-      "label": "生产管培/运营储备 · 2027 届",
-      "image": "",
+      "label": "生产管培 / 运营储备 / 门店管培 · 2027 届",
       "email": "mrjin2004@163.com",
       "phone": "19556434118",
-      "url": "https://gitfox-enter.github.io/",
-      "summary": "亳州学院酒店管理专业专升本在读（2027 届）。拥有市场推广实习经历与校园志愿服务经验，具备现场执行、客户沟通与团队协作能力。持有 C2 驾驶证，普通话二级乙等。意向在安徽周边发展，论文期间需方便往返学校。",
+      "summary": "酒店管理专业 2027 届应届生，核心课程 90 分以上（服务礼仪 95、餐饮管理 93、前厅 93）。有市场推广兼职经验，擅长活动执行与流程落地，做事细致、执行力强；可即时到岗，接受轮班调动。",
       "location": {
-        "city": "安徽（亳州优先）",
+        "city": "亳州（优先）/ 皖内周边可接受",
         "countryCode": "CN"
-      },
-      "profiles": []
+      }
     },
+    "work": [
+      {
+        "name": "安徽小库教育科技有限公司",
+        "position": "市场专员（兼职）",
+        "startDate": "2024-09",
+        "endDate": "2025-03",
+        "highlights": [
+          "负责线下市场推广与用户引流，参与活动全流程执行，把控获客流程与现场节奏",
+          "协助团队完成活动物料筹备、现场协调与进度把控，保障活动按计划落地"
+        ]
+      },
+      {
+        "name": "专业认知实习 · 星级酒店参观见习",
+        "position": "课程实践",
+        "startDate": "2025",
+        "endDate": "2026",
+        "highlights": [
+          "参观星级酒店前厅、客房、餐饮岗位作业现场，了解基础服务流程与作业标准，并完成课程案例考核"
+        ]
+      },
+      {
+        "name": "社会地推兼职（短期）",
+        "position": "地推",
+        "startDate": "2023",
+        "endDate": "2023",
+        "highlights": [
+          "在中考考点门口为追梦中加艺体学校派发招生传单；推广中国移动校园卡，售出 13 张"
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "安徽审计职业学院 / 亳州学院",
+        "position": "志愿者",
+        "startDate": "2023-09",
+        "endDate": "2026-07",
+        "highlights": [
+          "新生报到志愿服务（两度参与）：在校门口负责新生及家长的引导指路与答疑，协助维持报到现场秩序"
+        ]
+      }
+    ],
     "education": [
       {
         "institution": "亳州学院",
-        "studyType": "专升本",
-        "area": "酒店管理",
+        "area": "酒店管理（专升本 · 本科在读）",
         "startDate": "2025-09",
-        "endDate": "2027-07",
-        "score": "",
+        "endDate": "2027-06",
         "courses": [
-          "酒店服务礼仪（95 分）",
-          "酒店餐饮管理（93 分）",
-          "前厅运营与管理（93 分）"
+          "酒店服务礼仪（95）",
+          "酒店餐饮管理（93）",
+          "前厅运营与管理（93）"
         ]
       },
       {
         "institution": "安徽审计职业学院",
-        "studyType": "专科",
-        "area": "现代物流管理",
+        "area": "现代物流管理（专科）| 全日制公办高职",
         "startDate": "2022-09",
-        "endDate": "2025-07",
-        "score": "",
-        "courses": []
+        "endDate": "2025-06",
+        "courses": [
+          "系统学习现代物流管理专业基础，了解仓储、配送与供应链管理流程"
+        ]
       }
     ],
-    "work": [
+    "awards": [
       {
-        "name": "安徽小库教育科技有限公司",
-        "position": "市场专员",
-        "startDate": "2024-09",
-        "endDate": "2025-03",
-        "summary": "负责线下市场推广、用户引流及活动执行工作。",
-        "highlights": [
-          "负责线下市场地推、用户引流、场景宣传，累计售出校园卡 13 张，中考考点发放传单 500+ 份",
-          "协助团队完成营销活动策划落地、物料布置、现场执行、人员对接、流程跟进，保障活动顺利落地",
-          "主动对接客户咨询、耐心解答问题，锻炼沟通表达、临场应变与统筹协调能力"
-        ]
+        "title": "三好学生",
+        "date": "2023",
+        "awarder": "安徽审计职业学院"
+      },
+      {
+        "title": "校级二等奖学金（2022-2023 学年）",
+        "date": "2023",
+        "awarder": "安徽审计职业学院"
       }
     ],
     "skills": [
       {
-        "name": "办公工具",
+        "name": "专业知识",
         "keywords": [
-          "Word",
-          "Excel",
-          "PPT"
+          "酒店服务基础流程（课程学习）",
+          "现代物流管理基础",
+          "标准化与质量意识"
         ]
       },
       {
-        "name": "软技能",
+        "name": "办公与通用技能",
         "keywords": [
+          "Word",
+          "Excel",
+          "PPT",
           "执行力",
           "责任心",
-          "时间管理",
           "团队协作",
-          "快速学习"
+          "CET-4 备考中"
         ]
       }
     ],
     "certificates": [
       {
-        "name": "普通话二级乙等",
-        "date": "",
-        "issuer": ""
+        "name": "普通话二级乙等"
       },
       {
-        "name": "C2 机动车驾驶证",
-        "date": "",
-        "issuer": ""
+        "name": "C2 机动车驾驶证"
       }
     ]
   },
   "en": {
     "basics": {
       "name": "Jun Jin",
-      "label": "Production Management Trainee / Operations Reserve · Class of 2027",
-      "image": "",
+      "label": "Management Trainee / Operations Reserve · Class of 2027",
       "email": "mrjin2004@163.com",
-      "phone": "+86 19556434118",
-      "url": "https://gitfox-enter.github.io/",
-      "summary": "Junior student in Hotel Management at Bozhou University (expected graduation 2027). Have internship experience in market promotion and campus volunteer service, with skills in on-site execution, customer communication, and teamwork. Hold C2 driver's license and Putonghua Level 2 Grade B certificate. Seeking employment in Anhui province for convenience of attending graduation requirements.",
+      "phone": "19556434118",
+      "summary": "Hotel Management graduate (Class of 2027) with core course scores above 90 (Service Etiquette 95, Catering Management 93, Front Office 93). Experienced in on-site execution and process implementation through part-time marketing work. Available immediately, open to shift-based roles.",
       "location": {
-        "city": "Anhui (Bozhou preferred)",
+        "city": "Bozhou (preferred) / Anhui areas acceptable",
         "countryCode": "CN"
-      },
-      "profiles": []
+      }
     },
+    "work": [
+      {
+        "name": "Anhui Xiaoku Education Technology Co., Ltd.",
+        "position": "Marketing Specialist (Part-time)",
+        "startDate": "2024-09",
+        "endDate": "2025-03",
+        "highlights": [
+          "Conducted offline marketing and user acquisition, managed full event execution and customer flow",
+          "Supported event logistics, on-site coordination and schedule control to ensure smooth delivery"
+        ]
+      },
+      {
+        "name": "Professional Cognition Internship · Star Hotel Observation",
+        "position": "Course Practice",
+        "startDate": "2025",
+        "endDate": "2026",
+        "highlights": [
+          "Observed front office, housekeeping and catering operations in star-rated hotels; completed course case assessment"
+        ]
+      },
+      {
+        "name": "Ground Promotion (Short-term)",
+        "position": "Promoter",
+        "startDate": "2023",
+        "endDate": "2023",
+        "highlights": [
+          "Distributed admission flyers for a local school at high school entrance exam sites; sold 13 China Mobile campus SIM cards"
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Anhui Audit Vocational College / Bozhou University",
+        "position": "Volunteer",
+        "startDate": "2023-09",
+        "endDate": "2026-07",
+        "highlights": [
+          "New student registration volunteer (twice): guided students and parents, helped maintain order on site"
+        ]
+      }
+    ],
     "education": [
       {
         "institution": "Bozhou University",
-        "studyType": "Junior College to University",
-        "area": "Hotel Management",
+        "area": "Hotel Management (Upgrade Program, Bachelor in progress)",
         "startDate": "2025-09",
-        "endDate": "2027-07",
-        "score": "",
+        "endDate": "2027-06",
         "courses": [
-          "Hotel Service Etiquette (95/100)",
-          "Hotel Catering Management (93/100)",
-          "Front Office Operations & Management (93/100)"
+          "Hotel Service Etiquette (95)",
+          "Hotel Catering Management (93)",
+          "Front Office Operations (93)"
         ]
       },
       {
         "institution": "Anhui Audit Vocational College",
-        "studyType": "Associate Degree",
-        "area": "Modern Logistics Management",
+        "area": "Modern Logistics Management (Associate)",
         "startDate": "2022-09",
-        "endDate": "2025-07",
-        "score": "",
-        "courses": []
+        "endDate": "2025-06",
+        "courses": [
+          "Studied logistics fundamentals: warehousing, distribution and supply chain processes"
+        ]
       }
     ],
-    "work": [
+    "awards": [
       {
-        "name": "Anhui Xiaoku Education Technology Co., Ltd.",
-        "position": "Marketing Specialist",
-        "startDate": "2024-09",
-        "endDate": "2025-03",
-        "summary": "Responsible for offline market promotion, user acquisition, and event execution.",
-        "highlights": [
-          "Conducted offline market promotion, user acquisition, and scenario-based publicity; sold 13 campus cards and distributed 500+ flyers at high school entrance exam sites",
-          "Assisted team in marketing event planning, material arrangement, on-site execution, personnel coordination, and process follow-up to ensure smooth event delivery",
-          "Proactively handled customer inquiries, patiently answered questions, and developed communication, adaptability, and coordination skills"
-        ]
+        "title": "Merit Student",
+        "date": "2023",
+        "awarder": "Anhui Audit Vocational College"
+      },
+      {
+        "title": "Second-Class Scholarship (2022-2023)",
+        "date": "2023",
+        "awarder": "Anhui Audit Vocational College"
       }
     ],
     "skills": [
       {
-        "name": "Office Tools",
+        "name": "Professional Knowledge",
         "keywords": [
-          "Word",
-          "Excel",
-          "PPT"
+          "Hotel service basics (course level)",
+          "Logistics fundamentals",
+          "Standardization & quality awareness"
         ]
       },
       {
-        "name": "Soft Skills",
+        "name": "General Skills",
         "keywords": [
+          "Word",
+          "Excel",
+          "PPT",
           "Execution",
           "Responsibility",
-          "Time Management",
           "Teamwork",
-          "Fast Learning"
+          "CET-4 in preparation"
         ]
       }
     ],
     "certificates": [
       {
-        "name": "Putonghua Level 2 Grade B",
-        "date": "",
-        "issuer": ""
+        "name": "Putonghua Level 2 Grade B"
       },
       {
-        "name": "C2 Driver's License",
-        "date": "",
-        "issuer": ""
+        "name": "C2 Driver's License"
       }
     ]
   }
